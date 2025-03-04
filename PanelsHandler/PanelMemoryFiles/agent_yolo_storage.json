@@ -1,0 +1,25 @@
+{
+    "cookies": [
+        {
+            "name": "XSRF-TOKEN",
+            "value": "eyJpdiI6IjZvWEJ4VUw5L0xVZ0xhMWRFZ0xMMEE9PSIsInZhbHVlIjoiaWZ2UWs3Q3N3dUo3NnB0cTVTRWxCQVNheWRpaWMvc0xKcDlPcU1nNG10a0Y5Y3lYQTBla3hwT3hSZDFkSUVBL2VvUHdMUnNmN1RCYnJtSVhzQ2Vqa0Q3WkRKeWtrRk9BWXdtQlI0VTIzcnpaa2ZpOWxpL01xTkt5NmlzUytMTEoiLCJtYWMiOiI1MDUyZDU4YTExZTQxNjI0MTgzZTMxYjk2ZmRjZTNjOTM5ZWJkMTIwNWZhNmM2YmQ0OTljZDNmOWJhM2NiZDYzIiwidGFnIjoiIn0%3D",
+            "domain": "agent.yolo777.game",
+            "path": "/",
+            "expires": 1733930377.998884,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "yolo_session",
+            "value": "tffN6x9AqsQzgDA9LUc3fDY92HyT623QwrK2g78z",
+            "domain": "agent.yolo777.game",
+            "path": "/",
+            "expires": 1733930377.998972,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "token": "mFX6HeHkde3h0wBX8d2RPpwBUAIl9ZyYGChfXLcl"
+}

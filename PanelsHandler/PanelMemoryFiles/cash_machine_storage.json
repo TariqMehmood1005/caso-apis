@@ -1,0 +1,15 @@
+{
+    "cookies": [
+        {
+            "name": "cashmachine_session",
+            "value": "eyJpdiI6IkVucGlYaWV2REY5bFBacyttbmFpSnc9PSIsInZhbHVlIjoiN0N5N0lnOVlydnlRTzZBdXRHa1JibFA2ZHJLMlVONlVBWUFnWUU2YmFTYXpnTzVEUFJsTGdmRExTSlh0SkxyYnZKc0gxYzdlTkx3RmFiTXlYMjU3aGY4ak5tVS9OSzdJNzJyR1BNS3BQT0s5bFFWTzY4Ylp2Wmo1Z25xdXhZQ1giLCJtYWMiOiIzNGJhYWU5ODhkZTEwN2FiZGU4MzE5MDQyZDdiZmJlY2EwOTM2ZGU0MTkzODUyYTQ5NDZlMzgxMTg1MzAxNzE4IiwidGFnIjoiIn0%3D",
+            "domain": "agentserver.cashmachine777.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9hZ2VudHNlcnZlci5jYXNobWFjaGluZTc3Ny5jb206ODAwM1wvYXBpXC9hZ2VudFwvZ2V0TW9uZXkiLCJpYXQiOjE3MzM5MjM0MjAsImV4cCI6MTczMzk0NTAyMCwibmJmIjoxNzMzOTIzNDIwLCJqdGkiOiJEN3k0SVN0S2lUYWowaE9FIiwic3ViIjo5NTc3LCJwcnYiOiJiOGI2NWEzNGJlY2ViN2M3ZTVkYmJhMjEyZjZkZGRhMjY0ZDMyMGI5In0.vkWLz1AOYCxWZM1AsiKz1D4SaqRWRIKiDDxkZYqwhrw"
+}

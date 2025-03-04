@@ -1,0 +1,69 @@
+{
+    "cookies": [
+        {
+            "name": "PHPSESSID",
+            "value": "83e5766b90df4214b0a8c87b66f972c5",
+            "domain": "agent.lasvegassweeps.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "account",
+            "value": "darkbytes01",
+            "domain": "agent.lasvegassweeps.com",
+            "path": "/",
+            "expires": 1768483188.209938,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "password",
+            "value": "QWJkdWxNb2V6QEA1NDU0",
+            "domain": "agent.lasvegassweeps.com",
+            "path": "/",
+            "expires": 1768483188.210375,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cookie92169",
+            "value": "rSs355ZP6rxlFgbBP0ib+LouFjgFrA1Mdx5JJ3GuOqHR/rD8kwbR2CHAWM3+z8wy",
+            "domain": "agent.lasvegassweeps.com",
+            "path": "/",
+            "expires": 1768483188.686169,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkubGFzdmVnYXNzd2VlcHMuY29tIiwiYXVkIjoiYXBpLmxhc3ZlZ2Fzc3dlZXBzLmNvbSIsImlhdCI6MTczMzkyMzE4OCwibmJmIjoxNzMzOTIzMTg4LCJleHAiOjE3MzM5MzM5ODgsImp0aSI6eyJhZ2VudGlkIjo5MjE2OSwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NiwiYWdlbnRuYW1lIjoibGFzdmVnYXNfZGFya2J5dGVzIiwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDE6MjEifX0.gw8Utl-9m8s5_by1KUhJig5jGy7zbrhiU44STs1IQIU",
+    "user": {
+        "agent_id": 92169,
+        "agent_name": "darkbytes",
+        "login_name": "darkbytes01",
+        "phone": "123456789",
+        "real_name": null,
+        "role_level": 6,
+        "last_login_time": "2024-12-08 10:01:21",
+        "last_logon_time": "2024-12-08 07:06:51",
+        "last_login_ip": "64.23.221.208",
+        "last_logon_ip": "64.23.221.208",
+        "login_times": 18,
+        "recharge_permission": 1,
+        "redeem_permission": 1,
+        "ragents": "92169,59988,34381,9578,3412,1,0",
+        "is_test": 0,
+        "is_authorised": 0,
+        "secret_key": "006a91df49f522fdbf7924d20ad969ab",
+        "expires_time": "2024-12-11 10:19:48",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkubGFzdmVnYXNzd2VlcHMuY29tIiwiYXVkIjoiYXBpLmxhc3ZlZ2Fzc3dlZXBzLmNvbSIsImlhdCI6MTczMzkyMzE4OCwibmJmIjoxNzMzOTIzMTg4LCJleHAiOjE3MzM5MzM5ODgsImp0aSI6eyJhZ2VudGlkIjo5MjE2OSwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NiwiYWdlbnRuYW1lIjoibGFzdmVnYXNfZGFya2J5dGVzIiwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDE6MjEifX0.gw8Utl-9m8s5_by1KUhJig5jGy7zbrhiU44STs1IQIU",
+        "role": "STORE"
+    },
+    "time_zone": "cst",
+    "il8n": "en"
+}

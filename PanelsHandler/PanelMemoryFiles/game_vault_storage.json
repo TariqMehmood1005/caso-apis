@@ -1,0 +1,69 @@
+{
+    "cookies": [
+        {
+            "name": "PHPSESSID",
+            "value": "e0615738a33ee8d56a706dd01a6a103c",
+            "domain": "agent.gamevault999.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "account",
+            "value": "DarkBytes",
+            "domain": "agent.gamevault999.com",
+            "path": "/",
+            "expires": 1768482863.642181,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "password",
+            "value": "QWJkdWxNb2V6QEA1NDU0",
+            "domain": "agent.gamevault999.com",
+            "path": "/",
+            "expires": 1768482863.642585,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cookie92161",
+            "value": "4Jb/dD267Np2Ev9v+d/9r3n9Rlf/cSPQh6xZ8VXV/Qgct+pR618SXNl1xphETsUf",
+            "domain": "agent.gamevault999.com",
+            "path": "/",
+            "expires": 1768482864.131052,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuZ2FtZXZhdWx0OTk5LmNvbSIsImF1ZCI6ImFwaS5nYW1ldmF1bHQ5OTkuY29tIiwiaWF0IjoxNzMzOTIyODYzLCJuYmYiOjE3MzM5MjI4NjMsImV4cCI6MTczMzkzMzY2MywianRpIjp7ImFnZW50aWQiOjkyMTYxLCJ0eXBlIjoiYWdlbnQiLCJyb2xlX2xldmVsIjo2LCJhZ2VudG5hbWUiOiJndl9kYXJrYnl0ZXMiLCJsb2dpbnN0YXRlIjoiMjAyNC0xMi0wOCAwOTo1OTozNyJ9fQ.9gQxsA-z1y138giVRhbFuvNYztX71W1KknR3ttRiu0w",
+    "user": {
+        "agent_id": 92161,
+        "agent_name": "darkbytes",
+        "login_name": "darkbytes",
+        "phone": "123456789",
+        "real_name": null,
+        "role_level": 6,
+        "last_login_time": "2024-12-08 09:59:37",
+        "last_logon_time": "2024-12-08 07:07:45",
+        "last_login_ip": "64.23.221.208",
+        "last_logon_ip": "64.23.221.208",
+        "login_times": 47,
+        "recharge_permission": 1,
+        "redeem_permission": 1,
+        "ragents": "92161,59858,87306,87219,31,1,0",
+        "is_test": 0,
+        "is_authorised": 0,
+        "secret_key": "0de6aaa8c2bb535baf3abbd7cfa42e07",
+        "expires_time": "2024-12-11 10:14:23",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuZ2FtZXZhdWx0OTk5LmNvbSIsImF1ZCI6ImFwaS5nYW1ldmF1bHQ5OTkuY29tIiwiaWF0IjoxNzMzOTIyODYzLCJuYmYiOjE3MzM5MjI4NjMsImV4cCI6MTczMzkzMzY2MywianRpIjp7ImFnZW50aWQiOjkyMTYxLCJ0eXBlIjoiYWdlbnQiLCJyb2xlX2xldmVsIjo2LCJhZ2VudG5hbWUiOiJndl9kYXJrYnl0ZXMiLCJsb2dpbnN0YXRlIjoiMjAyNC0xMi0wOCAwOTo1OTozNyJ9fQ.9gQxsA-z1y138giVRhbFuvNYztX71W1KknR3ttRiu0w",
+        "role": "STORE"
+    },
+    "time_zone": "cst",
+    "il8n": "en"
+}

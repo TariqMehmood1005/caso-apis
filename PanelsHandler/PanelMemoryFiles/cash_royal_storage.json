@@ -1,0 +1,59 @@
+{
+    "cookies": [
+        {
+            "name": "PHPSESSID",
+            "value": "1bd98f48df81f439ed4dcb5aee8777a3",
+            "domain": "agent.casinoroyale07.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "account",
+            "value": "Darkbytes01",
+            "domain": "agent.casinoroyale07.com",
+            "path": "/",
+            "expires": 1768483735.392097,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "password",
+            "value": "QWJkdWxNb2V6QEA1NDU0",
+            "domain": "agent.casinoroyale07.com",
+            "path": "/",
+            "expires": 1768483735.392565,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuY2FzaW5vcm95YWxlMDcuY29tIiwiYXVkIjoiYXBpLmNhc2lub3JveWFsZTA3LmNvbSIsImlhdCI6MTczMzkyMzczNCwibmJmIjoxNzMzOTIzNzM0LCJleHAiOjE3MzM5MzQ1MzQsImp0aSI6eyJhZ2VudGlkIjoyMTk3NSwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NiwiYWdlbnRuYW1lIjoiRGFya2J5dGVzIiwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDA6MzYifX0.UTtyEOdbzk1jsiBLHI_4ft9o6928kBNlVGlOS29AotI",
+    "user": {
+        "agent_id": 21975,
+        "agent_name": "Darkbytes",
+        "login_name": "darkbytes01",
+        "phone": "123456789",
+        "real_name": null,
+        "role_level": 6,
+        "last_login_time": "2024-12-08 10:00:36",
+        "last_logon_time": "2024-12-08 07:08:15",
+        "last_login_ip": "64.23.221.208",
+        "last_logon_ip": "64.23.221.208",
+        "login_times": 34,
+        "recharge_permission": 1,
+        "redeem_permission": 1,
+        "ragents": "21975,21127,21113,19658,2,1,0",
+        "is_test": 0,
+        "is_authorised": 0,
+        "secret_key": "41278bac1235fdc305a74bbc5cd1fece",
+        "expires_time": "2024-12-11 10:28:54",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuY2FzaW5vcm95YWxlMDcuY29tIiwiYXVkIjoiYXBpLmNhc2lub3JveWFsZTA3LmNvbSIsImlhdCI6MTczMzkyMzczNCwibmJmIjoxNzMzOTIzNzM0LCJleHAiOjE3MzM5MzQ1MzQsImp0aSI6eyJhZ2VudGlkIjoyMTk3NSwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NiwiYWdlbnRuYW1lIjoiRGFya2J5dGVzIiwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDA6MzYifX0.UTtyEOdbzk1jsiBLHI_4ft9o6928kBNlVGlOS29AotI",
+        "role": "STORE"
+    },
+    "time_zone": "cst",
+    "il8n": "en"
+}

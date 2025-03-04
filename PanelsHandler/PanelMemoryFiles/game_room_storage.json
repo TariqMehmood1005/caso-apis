@@ -1,0 +1,15 @@
+{
+    "cookies": [
+        {
+            "name": "gameroom_session",
+            "value": "eyJpdiI6IlZOc2JFUmdsWm5VT0JCYlVMQUpKdGc9PSIsInZhbHVlIjoiOFBiK1l1aFFoa2hEVWdXVU9OMXBFa1dGTEQzWGgrOWMzUktLUDlZVGJPUnpMWGJuZDhEUW95K2JNRGVlNnM1OGpqTWdUb2tkUGdHdE9WUTdGcHpPYnM2MmhWckwvWlFySDZ0ZFpwaTFka2cwYXlFd2c4cENuZ0ZNaDIwaDZNd3QiLCJtYWMiOiJjYTc5YzQ2Yzk1ODFkODEwYWYxNjYwOWYyYjM1ZDM1ODZkNDU3ZjljNTk3Yjc5ZWRlNmZjYzdhYzkwZDg3OGUyIiwidGFnIjoiIn0%3D",
+            "domain": "agentserver1.gameroom777.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        }
+    ],
+    "auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYWdlbnRzZXJ2ZXIxLmdhbWVyb29tNzc3LmNvbVwvYXBpXC9hZ2VudFwvZ2V0TW9uZXkiLCJpYXQiOjE3MzM5MjM1MDEsImV4cCI6MTczMzk0NTEwMSwibmJmIjoxNzMzOTIzNTAxLCJqdGkiOiJWYUVSSktRSEhIVVlFek95Iiwic3ViIjoyNzI2MywicHJ2IjoiYjhiNjVhMzRiZWNlYjdjN2U1ZGJiYTIxMmY2ZGRkYTI2NGQzMjBiOSJ9.3AcLnrCJBnRpbP8nZf4GPrB46u9LsL3QBT_AnkE4hEs"
+}

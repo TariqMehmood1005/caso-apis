@@ -1,0 +1,38 @@
+{
+    "cookies": [
+        {
+            "name": "aliyungf_tc",
+            "value": "1fbd061e5a4ff977cab977a35f838bd3daf9a5ac3a86c95951f8efbddfa9d479",
+            "domain": "ht.juwa777.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "PHPSESSID",
+            "value": "91d6779db384afd1ff8cfe06f09284a8",
+            "domain": "ht.juwa777.com",
+            "path": "/",
+            "expires": -1,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "__cookie61714",
+            "value": "v3COeFXV5b59ttWXNbykc/7qlRuD7A04HpdfNHS5pq1r/z9N6O6pwPxw+LI+Slx2",
+            "domain": "ht.juwa777.com",
+            "path": "/",
+            "expires": 1768483715.362351,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlLmp1d2E3NzcuY29tIiwiYXVkIjoiZS5qdXdhNzc3LmNvbSIsImlhdCI6MTczMzkyMzcxNSwibmJmIjoxNzMzOTIzNzE1LCJleHAiOjE3MzM5MzQ1MTUsImp0aSI6eyJhZ2VudGlkIjo2MTcxNCwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NSwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDA6MjkifX0.P3vKlAg16A5bwQVbq5Pl2QO3IMyFvt7NPrMgQ_FEZ_g",
+    "user": "{\"agent_id\":61714,\"agent_name\":\"Darkbytes\",\"login_name\":\"darkbytes01\",\"phone\":\"123456789\",\"real_name\":null,\"role_level\":5,\"last_login_time\":\"2024-12-08 10:00:29\",\"last_logon_time\":\"2024-12-08 07:07:38\",\"last_login_ip\":\"64.23.221.208\",\"last_logon_ip\":\"64.23.221.208\",\"login_times\":35,\"recharge_permission\":1,\"redeem_permission\":1,\"ragents\":\"61714,42820,27583,25,1,0\",\"is_test\":0,\"is_authorised\":0,\"secret_key\":\"dfc7c8a3cd6c70d818eae5d3a3ba180e\",\"expires_time\":\"2024-12-11 10:28:35\",\"token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlLmp1d2E3NzcuY29tIiwiYXVkIjoiZS5qdXdhNzc3LmNvbSIsImlhdCI6MTczMzkyMzcxNSwibmJmIjoxNzMzOTIzNzE1LCJleHAiOjE3MzM5MzQ1MTUsImp0aSI6eyJhZ2VudGlkIjo2MTcxNCwidHlwZSI6ImFnZW50Iiwicm9sZV9sZXZlbCI6NSwibG9naW5zdGF0ZSI6IjIwMjQtMTItMDggMTA6MDA6MjkifX0.P3vKlAg16A5bwQVbq5Pl2QO3IMyFvt7NPrMgQ_FEZ_g\",\"role\":\"STORE\"}",
+    "time_zone": "cst",
+    "il8n": "en-US"
+}
