@@ -34,8 +34,8 @@ if ENVIRONMENT == 'development':
 else:
     DEBUG = False
 
-ALLOWED_HOSTS = ['web-b7uo9461trki.up-de-fra1-k8s-1.apps.run-on-seenode.com']
-CSRF_TRUSTED_ORIGINS = ['https://web-b7uo9461trki.up-de-fra1-k8s-1.apps.run-on-seenode.com']
+ALLOWED_HOSTS = ['*']
+CSRF_TRUSTED_ORIGINS = ['*']
 
 SITE_PUBLISHED = True
 DJANGO_ALLOW_ASYNC_UNSAFE = True
